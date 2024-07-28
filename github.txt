@@ -5,7 +5,7 @@ git push -u origin main
 
 git status
 
-
+add
 
 git checkout 【マージしたいブランチ名】
 git pull 【リモート名】 【プルリクを送りたいブランチ名】
