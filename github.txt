@@ -1,7 +1,6 @@
 git remote -v
 
 git branch -M main
-<<<<<<< HEAD
 git push -u origin main
 
 git status
@@ -15,6 +14,3 @@ git checkout branch-a
 git pull origin main
 
 branch b1
-=======
-git push -u origin main
->>>>>>> dc6b4ba6f3dfe85b7cc3e0d9699cca211126937f
